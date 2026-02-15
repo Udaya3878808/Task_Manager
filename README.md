@@ -64,13 +64,14 @@ npm run dev
 
 Deployed on Netlify.
 
----
+## 🌍 Live Demo
+
+[🚀 View Live App](https://cool-centaur-2e4d7f.netlify.app/login)
 
 ## 📂 GitHub Repository
 
-(Add your repo link here)
+[💻 View Source Code](https://github.com/Udaya3878808/Task_Manager)
 
----
 
 ## 👨‍💻 Author
 
