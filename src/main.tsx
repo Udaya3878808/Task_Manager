@@ -7,10 +7,8 @@ import { AuthProvider } from "./Context_Api/AuthContext";
 import { Toaster } from "react-hot-toast";
 
 async function enableMocking() {
-  if (import.meta.env.DEV) {
     const { worker } = await import("./mocks/browser");
     await worker.start();
-  }
 }
 
 enableMocking().then(() => {
